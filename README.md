@@ -1,6 +1,6 @@
 # Image Encryption Project
 
-This project provides simple Python based tool for encrypting and decrypting of an image using crytography.
+This project provides simple Python based tool for encrypting and decrypting of an image using cryptography.
 You can use it to securely encrypt the image so only user with correct key can decrypt it and view it.
 
 #Feature
